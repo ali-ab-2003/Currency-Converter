@@ -9,6 +9,7 @@ body {
     align-items: center;
     min-height: 100vh;
     background-color: #0f35a9;
+    font-family: 'Josefin Sans', sans-serif;
 }
 
 .container {
@@ -19,6 +20,12 @@ body {
     width: 40vh;
     background: linear-gradient(145deg,  #0e3098, #1039b5);
     box-shadow:  20px 20px 60px #0d2d90, -20px -20px 60px #113dc2;
+}
+
+.heading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 form {
@@ -40,6 +47,7 @@ form input {
     border-radius: 1rem;
     background: #e8e8e8;
     transition: 0.3s;
+    margin-top: 5px;
 }
 
 form input:focus {
@@ -70,6 +78,7 @@ form input:focus {
     align-items: center;
     border-radius: 0.5rem;
     border: 1px solid lightgray;
+    margin-top: 5px;
 }
 
 .dropdown i {
