@@ -8,7 +8,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-color: #0f35a9;
+    background-color: #051650;
     font-family: 'Josefin Sans', sans-serif;
 }
 
@@ -18,8 +18,8 @@ body {
     border-radius: 1rem;
     min-height: 45vh;
     width: 40vh;
-    background: linear-gradient(145deg,  #0e3098, #1039b5);
-    box-shadow:  20px 20px 60px #0d2d90, -20px -20px 60px #113dc2;
+    background: linear-gradient(145deg, #051448, #051856);
+    box-shadow:  20px 20px 60px #041344, -20px -20px 60px #06195c;
 }
 
 .heading {
